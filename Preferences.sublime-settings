@@ -1,0 +1,12 @@
+{
+	"draw_white_space": "all",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel"
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"vintageous_use_ctrl_keys": true
+}
