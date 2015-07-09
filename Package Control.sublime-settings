@@ -2,24 +2,24 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"Better CoffeeScript",
-		"eco",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"Jade",
+		"JSCS-Formatter",
 		"LESS",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"Surround",
 		"SyncedSideBar",
 		"Vintage Surround",
 		"Vintageous"

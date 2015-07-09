@@ -1,0 +1,8 @@
+{
+  "node_path": {
+    "osx": "/Users/ianeiko/.nvm/versions/node/v0.12.4/bin/node"
+  },
+  "jscs_path": {
+    "osx": "/Users/ianeiko/.nvm/versions/node/v0.12.4/bin/jscs"
+  }
+}
