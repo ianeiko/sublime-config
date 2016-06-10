@@ -6,6 +6,11 @@
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
 	"font_size": 14,
 	"ignored_packages":
 	[
